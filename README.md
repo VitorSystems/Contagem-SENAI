@@ -1,1 +1,2 @@
 # Contagem-SENAI
+Bem vindo
